@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Home page functionalities of Loblaws" skipped="0" tests="1" time="8.11" timestamp="2023-05-10 04:09:14"><testcase name="To test Filter functionality by selecting dropdowns"><error message="Cannot invoke &quot;setup.Init.getAppUrl()&quot; because &quot;this.init&quot; is null" type="java.lang.NullPointerException">Cannot invoke "setup.Init.getAppUrl()" because "this.init" is null</error><system-err>Cannot invoke "setup.Init.getAppUrl()" because "this.init" is null&#13;
+pages.HomePage.openApplication(HomePage.java:108)&#13;
+stepdefinitions.HomeSteps.user_launches_loblaws_url(HomeSteps.java:18)&#13;
+✽.User launches Loblaws url(file:///C:/Users/hp%20g430/Downloads/SampleAutomation-master/SampleAutomation-master/src/test/resources/features/Home.feature:69)&#13;
+</system-err></testcase></testsuite>

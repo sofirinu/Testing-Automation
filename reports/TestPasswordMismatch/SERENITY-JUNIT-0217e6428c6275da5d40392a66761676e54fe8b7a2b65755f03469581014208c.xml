@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Register functionality of Loblaws website" skipped="0" tests="2" time="72.09" timestamp="2023-05-09 10:28:08"><testcase name="Test the Password field does not accept passwords in invalid format"/></testsuite>

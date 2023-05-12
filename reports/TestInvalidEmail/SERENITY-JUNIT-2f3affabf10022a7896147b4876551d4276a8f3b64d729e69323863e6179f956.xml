@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Register functionality of Loblaws website" skipped="0" tests="4" time="132.68" timestamp="2023-05-09 02:08:36"><testcase name="Test the email Id field does not accept invalid email IDs"/></testsuite>

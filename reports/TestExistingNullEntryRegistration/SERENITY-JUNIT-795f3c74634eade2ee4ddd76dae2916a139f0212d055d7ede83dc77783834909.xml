@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Register functionality of Loblaws website" skipped="0" tests="1" time="35.36" timestamp="2023-05-09 02:19:23"><testcase name="Test unsuccessful registration for a user with null entries"/></testsuite>
